@@ -16,3 +16,7 @@ body {
 .btn {
   height: 40px;
 }
+
+.expand {
+  height: 400px;
+}
