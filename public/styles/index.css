@@ -1,0 +1,18 @@
+body {
+  width: 100%;
+}
+
+.blog {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.blog:hover {
+  cursor: pointer;
+}
+
+.btn {
+  height: 40px;
+}
