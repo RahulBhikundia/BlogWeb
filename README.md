@@ -19,7 +19,7 @@ This is a basic blog application built using Node.js, Express, and EJS templatin
 
 2. **Navigate to the project directory:**
    ```bash
-   cd ejs-blog-app
+   cd BlogWeb
    ```
 
 3. **Install dependencies:**
@@ -41,5 +41,4 @@ This is a basic blog application built using Node.js, Express, and EJS templatin
 
 For any questions or feedback, please contact:
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Website:** [www.yourwebsite.com](https://www.yourwebsite.com) 
+* **Email:** [rahulkumar6222@gmail.com](mailto:rahulkumar6222@gmail.com)
